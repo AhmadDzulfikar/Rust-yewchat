@@ -7,3 +7,5 @@
 ## Experiment 3.2: Be Creative!
 
 ![experiment 3.2](./assets/image.png)
+
+![experiment 3.2](./assets/image.png)
