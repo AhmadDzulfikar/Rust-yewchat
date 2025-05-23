@@ -2,4 +2,4 @@
 
 ## Experiment 3.1: Original code
 
-![experiment 3.1](./assets/experiment_3_1.png)
+![image](https://github.com/user-attachments/assets/8b4c30ba-87dd-49e2-9983-b1b2a3a47a30)
