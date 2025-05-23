@@ -2,10 +2,9 @@
 
 ## Experiment 3.1: Original code
 
-![experiment 3.1](./assets/experiment_3_1.png)
+![image](https://github.com/user-attachments/assets/01185768-1fc1-4671-b253-90ebebc5fa57)
+
 
 ## Experiment 3.2: Be Creative!
 
-![experiment 3.2](./assets/image.png)
-
-![experiment 3.2](./assets/image.png)
+![image](https://github.com/user-attachments/assets/1dab09de-0622-4fa1-a779-6f8034205559)
